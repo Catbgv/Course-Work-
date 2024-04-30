@@ -1,4 +1,4 @@
-<h1>Text Adventure Game Development</h1>
+<h1> 👾Text Adventure Game Development</h1>
 
 <h2>Description</h2>
 I have developed this game inspired in the Harry Potter series. I established 4 stages where the player will have to collect the three Deathly Hallows in order to win the game: The invisibility cloak, the elder wand and the resurrection stone. The game begins with the sorting hat event where the player will have to be placed in a house: Gryffindor, Hufflepuff, Ravenclaw, or Slytherin based on their personal traits. Suddenly, Voldemort interrupts the Sorting event and Harry leads the way between the different stages.
